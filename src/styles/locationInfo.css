@@ -1,0 +1,28 @@
+.location{
+    background-color: #062226;
+    max-width: 600px;
+    margin-bottom: 3em;
+    margin-top: 2em;
+    margin-left: auto;
+    margin-right: auto;
+}
+.location__name{
+    text-align: center;
+    margin-bottom: 1em;
+    color: #78cf0f;
+}
+.location__list{
+    display: flex;
+    gap: 1em;
+    justify-content: space-around;
+}
+.location__item{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5em;
+    color: #aaa;
+}
+.location__label{
+    color: white;
+}

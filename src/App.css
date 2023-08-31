@@ -1,0 +1,25 @@
+.app{
+    background-color: #05292E;
+    min-height: 100vh;
+}
+.app__title{
+    margin-bottom: 1em;
+}
+.app__form{
+    display: flex;
+    justify-content: center;
+}
+.app__input{
+    border-radius: 0.5em 0 0 0.5em;
+    padding: 0.4em 0.8em;
+}
+.app__btn{
+    border-radius: 0 0.5em 0.5em 0;
+    padding: 0 1em;
+    background-color: #78cf0f;
+    color: white
+}
+.app__error{
+    text-align: center;
+    margin-top: 3em;
+}
